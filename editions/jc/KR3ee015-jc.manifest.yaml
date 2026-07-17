@@ -26,14 +26,14 @@ assets:
   - {seq: 7, filename: KR3ee015_007-jc.yaml, hash: 'sha256:65010d5a568972fbe0ebedc3e75030e293e89412c3cf9aa2f65c3dcbc36126e4'}
   - {seq: 8, filename: KR3ee015_008-jc.yaml, hash: 'sha256:9fe3e75f023e6038757df2e4c4a63e2d46039dc0f6e50d79cddfea7894d084c1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ee015_001-jc.markers.yaml, hash: 'sha256:5ad0366fbbc0b661e346b837c145baf6d1af8f641b391214e5c639b4acbbc867'}
-  - {seq: 2, role: markers, filename: assets/KR3ee015_002-jc.markers.yaml, hash: 'sha256:7d1c2018c2af562c9a486ab3753196b6b543374cb1cba4b5f19b411b849a633f'}
-  - {seq: 3, role: markers, filename: assets/KR3ee015_003-jc.markers.yaml, hash: 'sha256:63ead24f8f0343267784cf13167cd515f98d08a20ba1ffd0abf45786e6f80f08'}
+  - {seq: 1, role: markers, filename: assets/KR3ee015_001-jc.markers.yaml, hash: 'sha256:d2d75180ef710eab418448f511e7a316f544f6fc553e9cc10874dc4e6674fbcf'}
+  - {seq: 2, role: markers, filename: assets/KR3ee015_002-jc.markers.yaml, hash: 'sha256:39da7eb52da5b9b2413fb2087450b92f5be49bfd4f5f2bbf56370950445d6975'}
+  - {seq: 3, role: markers, filename: assets/KR3ee015_003-jc.markers.yaml, hash: 'sha256:f9972847be56ae7509bd18630f73d6c2ecbbda7c9ec3583d3465300a2a08ffe9'}
   - {seq: 4, role: markers, filename: assets/KR3ee015_004-jc.markers.yaml, hash: 'sha256:701ae4ab962ef2b177cdd3e65f4cec0d8580d85953b2fc4535c00b7bbeb31ffe'}
   - {seq: 5, role: markers, filename: assets/KR3ee015_005-jc.markers.yaml, hash: 'sha256:f9dcf5c71a643b51c6cd878408bf2bdfe03ad4fc56babfe7ab3cdca87fcdad69'}
   - {seq: 6, role: markers, filename: assets/KR3ee015_006-jc.markers.yaml, hash: 'sha256:cad4776dac0ba6a4d104edd14562cb21c58ca65de8d23241dcc2a9f2003c3d78'}
   - {seq: 7, role: markers, filename: assets/KR3ee015_007-jc.markers.yaml, hash: 'sha256:7fd99c83dc3a6f1215e57a1068020fd28a0350e05ab6361cebe58fc120abd58a'}
-  - {seq: 8, role: markers, filename: assets/KR3ee015_008-jc.markers.yaml, hash: 'sha256:1c12bc2de437d41cc8854a7260aa55569542779b5e10ff06173db2799c8c5c36'}
+  - {seq: 8, role: markers, filename: assets/KR3ee015_008-jc.markers.yaml, hash: 'sha256:ce276ae2a666ef1decfd3a1747c330d290f4c9f93351f472f8a425b4095732e1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1995,4 +1995,4 @@ table_of_contents:
   label: 制針法歌
   type: section
   level: 2
-hash: sha256:759ff93b273128e1c9fd6513e5555439a31e1aeaf84a5c2666248b84d7bce563
+hash: sha256:0e50964b3c41bdd23813a5b0dce220c73fc591bfd7ddedcc52231112dbb9bc6c

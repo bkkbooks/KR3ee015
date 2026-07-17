@@ -26,14 +26,14 @@ assets:
   - {seq: 7, filename: KR3ee015_007.yaml, hash: 'sha256:874c207cf3a7726bfb5bef6aa2f4f6dbbda9b74bbeae45d8f20e8e3a49463858'}
   - {seq: 8, filename: KR3ee015_008.yaml, hash: 'sha256:243dd19ac0f6728893e3f794c635510bc7ad2ca23c5eb7c4b838a4d228949543'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ee015_001.markers.yaml, hash: 'sha256:eed5de279b8fe033f1200cdeb1a665fc3d539dbd9642fed989331259bb71899b'}
-  - {seq: 2, role: markers, filename: assets/KR3ee015_002.markers.yaml, hash: 'sha256:00988d8c85c218a48fbd65f1476925f226c60f607c88525416fdc97ce0be632c'}
-  - {seq: 3, role: markers, filename: assets/KR3ee015_003.markers.yaml, hash: 'sha256:8edcfe4edeaed5b2131e86d777baae4ad4e3a97d2030f4efe1a95e25c3f717ff'}
+  - {seq: 1, role: markers, filename: assets/KR3ee015_001.markers.yaml, hash: 'sha256:1e0a23394e4648abb54bfbbdd746174488ad7bd56e6d00fac61650ba0d2edb5d'}
+  - {seq: 2, role: markers, filename: assets/KR3ee015_002.markers.yaml, hash: 'sha256:271918b72a7b33f8eae81c66ec8a9a74b3d0978def7a4c4f95dff64f454951ad'}
+  - {seq: 3, role: markers, filename: assets/KR3ee015_003.markers.yaml, hash: 'sha256:281c4ce242e297d7f7650d5dae4b9c2b58088f03dbaaa6addf570b9d0893e0ad'}
   - {seq: 4, role: markers, filename: assets/KR3ee015_004.markers.yaml, hash: 'sha256:a41aa185a84da082d957212a3181f86755a9a4df6f42c28d0801174ef94672a2'}
   - {seq: 5, role: markers, filename: assets/KR3ee015_005.markers.yaml, hash: 'sha256:75bf4eda13f206ed2de0cd4500b0f25c5e6df6e7e80e6757dc7ea5cc8542abb6'}
   - {seq: 6, role: markers, filename: assets/KR3ee015_006.markers.yaml, hash: 'sha256:f000849c5e89650300b564a6ba34adaa79d249c109a7c77f9c413ab8387eafac'}
   - {seq: 7, role: markers, filename: assets/KR3ee015_007.markers.yaml, hash: 'sha256:7a0c6262b8d3e0477664d75120588e7b5e3f2ce9db58c22985e44a8f109017ec'}
-  - {seq: 8, role: markers, filename: assets/KR3ee015_008.markers.yaml, hash: 'sha256:0e068bad1fa2c3f86e91ff49eb212071eee8d6a90352041becafc68607f53923'}
+  - {seq: 8, role: markers, filename: assets/KR3ee015_008.markers.yaml, hash: 'sha256:a6221d29ffd6dfe8bab7ecac46967a5663838b84ab2505cb3987870630079475'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1995,7 +1995,7 @@ table_of_contents:
   label: 制針法歌
   type: section
   level: 2
-hash: sha256:af1126e94e5bfecbdae1660cd475b68683d11fa185c336ace62523ee9bfdfa33
+hash: sha256:d6059415d2db394487c05476e232af4908206184606d08ef9416db965874f35a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
